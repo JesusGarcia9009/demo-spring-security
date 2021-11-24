@@ -7,7 +7,7 @@ Microservicio orientado al registro de usuarios y registros telefónicos así co
 
 El siguiente proyecto tiene la siguiente estructura de ejecucion
 
-![alt text](https://github.com/JesusGarcia9009/spring-boot-test/blob/main/diagrama.png)
+![alt text](https://github.com/JesusGarcia9009/demo-spring-security/blob/main/diagrama.png)
 
 Los scripts de para la creacion de la base de datos esta en el archivo
 
@@ -73,7 +73,7 @@ body:
 ```
 quedando de la siguiente forma
 
-![alt text](https://github.com/JesusGarcia9009/spring-boot-test/blob/main/evid.PNG)
+![alt text](https://github.com/JesusGarcia9009/demo-spring-security/blob/main/evid.PNG)
 
 ## Pre-requisitos 🛠
 
